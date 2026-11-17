@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="864" height="290" viewBox="0 0 864 290">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="10" refX="10.5" refY="5" orient="auto">
+      <path d="M0 0 L11 5 L0 10 L3 5 Z" fill="#111"/>
+    </marker>
+  </defs>
+  <g fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#arrow)">
+    <path d="M338 74 C264 99 214 144 177 201"/>
+    <path d="M264 212 C327 187 374 144 403 91"/>
+    <path d="M525 74 C600 100 649 145 687 201"/>
+    <path d="M600 212 C537 187 490 144 460 91"/>
+  </g>
+  <g fill="white" stroke-width="2.5">
+    <rect x="338" y="16" width="187" height="71" rx="14" stroke="#6355ed"/>
+    <rect x="33" y="205" width="231" height="71" rx="14" stroke="#3c3c3c"/>
+    <rect x="600" y="205" width="230" height="71" rx="14" stroke="#3c3c3c"/>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="32" text-anchor="middle" fill="#111">
+    <text x="431.5" y="62">N, N, libre</text>
+    <text x="148.5" y="251">C, N, tomado</text>
+    <text x="715" y="251">N, C, tomado</text>
+  </g>
+  <g fill="white" stroke="#111" stroke-width="1.2">
+    <rect x="170" y="101" width="147" height="43"/>
+    <rect x="277" y="145" width="139" height="40"/>
+    <rect x="546" y="101" width="147" height="43"/>
+    <rect x="447" y="145" width="139" height="40"/>
+  </g>
+  <g font-family="Times New Roman, Times, serif" font-size="34" text-anchor="middle" fill="#111">
+    <text x="243.5" y="133">acquire.1</text>
+    <text x="346.5" y="175">release.1</text>
+    <text x="619.5" y="133">acquire.2</text>
+    <text x="516.5" y="175">release.2</text>
+  </g>
+</svg>

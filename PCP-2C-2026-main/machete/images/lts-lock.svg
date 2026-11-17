@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594" height="224" viewBox="0 0 594 224">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="10" refX="10.5" refY="5" orient="auto">
+      <path d="M0 0 L11 5 L0 10 L3 5 Z" fill="#111"/>
+    </marker>
+  </defs>
+  <g fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#arrow)">
+    <path d="M142 86 C242 21 348 22 433 76"/>
+    <path d="M431 145 C340 207 235 206 145 145"/>
+  </g>
+  <g fill="white" stroke-width="2.5">
+    <rect x="43" y="79" width="99" height="71" rx="14" stroke="#6355ed"/>
+    <rect x="428" y="79" width="144" height="71" rx="14" stroke="#3c3c3c"/>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="32" text-anchor="middle" fill="#111">
+    <text x="92.5" y="126">libre</text>
+    <text x="500" y="126">tomado</text>
+  </g>
+  <g fill="white" stroke="#111" stroke-width="1.2">
+    <rect x="228" y="17" width="121" height="44"/>
+    <rect x="232" y="171" width="113" height="40"/>
+  </g>
+  <g font-family="Times New Roman, Times, serif" font-size="36" text-anchor="middle" fill="#111">
+    <text x="288.5" y="49">acquire</text>
+    <text x="288.5" y="202">release</text>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1248" height="290" viewBox="0 0 1248 290">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="10" refX="10.5" refY="5" orient="auto">
+      <path d="M0 0 L11 5 L0 10 L3 5 Z" fill="#111"/>
+    </marker>
+  </defs>
+  <text x="250" y="36" font-family="Times New Roman, Times, serif" font-size="32" text-anchor="middle">
+    T<tspan dy="6" font-size="22" font-style="italic">i</tspan>
+  </text>
+  <text x="918" y="40" font-family="Helvetica, Arial, sans-serif" font-size="32" text-anchor="middle">LOCK</text>
+  <g fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#arrow)">
+    <path d="M150 150 C214 112 290 109 349 148"/>
+    <path d="M351 190 C288 233 218 234 153 192"/>
+    <path d="M742 145 C847 77 960 76 1074 134"/>
+    <path d="M1071 199 C961 269 849 268 746 201"/>
+  </g>
+  <g fill="white" stroke-width="2.5">
+    <rect x="81" y="137" width="69" height="68" rx="13" stroke="#6355ed"/>
+    <rect x="351" y="137" width="69" height="68" rx="13" stroke="#3c3c3c"/>
+    <rect x="648" y="137" width="95" height="68" rx="13" stroke="#6355ed"/>
+    <rect x="1071" y="137" width="138" height="68" rx="13" stroke="#3c3c3c"/>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="32" text-anchor="middle" fill="#111">
+    <text x="115.5" y="182">N</text>
+    <text x="385.5" y="182">C</text>
+    <text x="695.5" y="182">libre</text>
+    <text x="1140" y="182">tomado</text>
+  </g>
+  <g fill="white" stroke="#111" stroke-width="1.2">
+    <rect x="183" y="100" width="136" height="43"/>
+    <rect x="187" y="202" width="128" height="40"/>
+    <rect x="768" y="69" width="285" height="43"/>
+    <rect x="776" y="230" width="268" height="43"/>
+  </g>
+  <g font-family="Times New Roman, Times, serif" font-size="32" text-anchor="middle" fill="#111">
+    <text x="251" y="132">acquire.<tspan font-style="italic">i</tspan></text>
+    <text x="251" y="232">release.<tspan font-style="italic">i</tspan></text>
+    <text x="910.5" y="101">acquire.1, acquire.2</text>
+    <text x="910" y="262">release.1, release.2</text>
+  </g>
+</svg>
